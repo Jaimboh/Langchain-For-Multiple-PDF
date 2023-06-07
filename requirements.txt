@@ -1,0 +1,8 @@
+streamlit
+langchain
+unstructured
+openai
+chromadb
+Cython
+tiktoken
+pypdf
